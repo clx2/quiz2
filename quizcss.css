@@ -1,0 +1,25 @@
+h1{
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+}
+body {
+  background: #aabfe0;
+}
+p{
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  text-decoration: underline;
+  color: #112647;
+}
+.head{
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+}
+.contact{
+  font-family: 'Dancing Script', cursive;
+  position: static;
+  width: 75%;
+  margin: auto;
+  text-align: center;
+  background: #ffffff;
+}
